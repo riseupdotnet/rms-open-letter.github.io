@@ -80,11 +80,12 @@ Signed,
 1. Open Source Collective
 1. Open Source Diversity
 1. Public Laboratory for Open Technology and Science
-1. SUSE
-1. TEN7
-1. Tor Project
-1. Sanctuary Computer
-1. X.org Foundation
+1. Riseup Networks
+3. SUSE
+4. TEN7
+5. Tor Project
+6. Sanctuary Computer
+7. X.org Foundation
 
 ### Individuals
 
